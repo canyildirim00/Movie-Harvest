@@ -1,5 +1,4 @@
 from tkinter import *
-import requests
 import random
 
 
@@ -16,19 +15,10 @@ def movie_picker():
 
     movie_of_the_day = random.choice(data_into_list)
     output.config(text = f"{movie_of_the_day}")
-    if movie_of_the_day in watched:
-        label2.config(text="You have already watched this movie.")
-    else:
+    if movie_of_the_day not in watched:
         label2.config(text="Enjoy your movie!")
-    watched.append(movie_of_the_day)
-
-    with open("watched.txt", mode="w") as file:
-        for movie in watched:
-            file.write(f"{movie_of_the_day}")
-
-
-
-
+        data_into_list.remove(movie_of_the_day)
+    
 
 
 screen = Tk()
@@ -49,8 +39,6 @@ output.grid(column=0, row=2)
 
 
 screen.mainloop()
-
-
 
 
 

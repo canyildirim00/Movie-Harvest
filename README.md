@@ -1,1 +1,1 @@
-# Movie-picker
+All movies are taken from top 250 movie list of imdb. It generates random movie in the list and after the film is taken, it is removed from the list. So, you will never see the watched movie again. Enjoy!

@@ -1,7 +1,7 @@
 The Shawshank Redemption
 The Godfather
 The Dark Knight
-The Godfather: Part II
+The Godfather Part II
 12 Angry Men
 Schindler's List
 The Lord of the Rings: The Return of the King
@@ -12,7 +12,7 @@ Forrest Gump
 Fight Club
 Inception
 The Lord of the Rings: The Two Towers
-Star Wars: Episode V - The Empire Strikes Back
+The Empire Strikes Back
 The Matrix
 Goodfellas
 One Flew Over the Cuckoo's Nest
@@ -23,211 +23,211 @@ The Silence of the Lambs
 Cidade de Deus
 Saving Private Ryan
 La vita � bella
-Spider-Man: No Way Home
-Star Wars
-Interstellar
-Sen to Chihiro no kamikakushi
 The Green Mile
-Gisaengchung
-L�on
-Seppuku
-The Pianist
+Interstellar
+Star Wars
 Terminator 2: Judgment Day
 Back to the Future
-The Usual Suspects
+Sen to Chihiro no kamikakushi
 Psycho
+The Pianist
+Leon
+Gisaengchung
 The Lion King
-Modern Times
-Hotaru no haka
-American History X
-Whiplash
 Gladiator
+American History X
+The Usual Suspects
 The Departed
-City Lights
-The Intouchables
 The Prestige
+Top Gun: Maverick
 Casablanca
+Whiplash
+The Intouchables
+Modern Times
+Seppuku
 Once Upon a Time in the West
+Hotaru no haka
 Rear Window
-Nuovo Cinema Paradiso
 Alien
-Apocalypse Now
+City Lights
+Nuovo Cinema Paradiso
 Memento
+Apocalypse Now
 Raiders of the Lost Ark
-The Great Dictator
 Django Unchained
+WALL-E
 The Lives of Others
-Paths of Glory
 Sunset Blvd.
-WALL�E
-Avengers: Infinity War
-Witness for the Prosecution
-Spider-Man: Into the Spider-Verse
+Paths of Glory
 The Shining
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-Mononoke-hime
-Oldeuboi
-Joker
-Kimi no na wa.
-Coco
-The Dark Knight Rises
+The Great Dictator
+Witness for the Prosecution
+Avengers: Infinity War
 Aliens
+American Beauty
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+The Dark Knight Rises
+Spider-Man: Into the Spider-Verse
+Joker
+Oldeuboi
+Braveheart
+Amadeus
+Toy Story
+Coco
+Das Boot
+Inglourious Basterds
+Mononoke-hime
 Once Upon a Time in America
 Avengers: Endgame
-Capharna�m
-Das Boot
-Tengoku to jigoku
-3 Idiots
-Toy Story
-Amadeus
-American Beauty
-Braveheart
-Inglourious Basterds
 Good Will Hunting
-Hamilton
-Idi i smotri
+Requiem for a Dream
+Toy Story 3
+Kimi no na wa.
+Singin' in the Rain
+3 Idiots
 Star Wars: Episode VI - Return of the Jedi
 2001: A Space Odyssey
-Taare Zameen Par
 Reservoir Dogs
-Vertigo
-M - Eine Stadt sucht einen M�rder
-Jagten
-Citizen Kane
-Requiem for a Dream
-Singin' in the Rain
-North by Northwest
-Ikiru
 Eternal Sunshine of the Spotless Mind
-Ladri di biciclette
+Tengoku to jigoku
+Capharna�m
+Citizen Kane
 Lawrence of Arabia
-The Kid
-Full Metal Jacket
-Incendies
-Dangal
-The Apartment
-Double Indemnity
-Metropolis
+Jagten
+M - Eine Stadt sucht einen M�rder
+North by Northwest
+Vertigo
+Le fabuleux destin d'Amelie Poulain
 A Clockwork Orange
-Taxi Driver
-The Father
-The Sting
-Jodaeiye Nader az Simin
+Idi i smotri
+Full Metal Jacket
+Double Indemnity
+The Apartment
 Scarface
-Snatch
-1917
-Le fabuleux destin d'Am�lie Poulain
+Ikiru
+The Sting
 To Kill a Mockingbird
-Toy Story 3
-Per qualche dollaro in pi�
-Up
-Pather Panchali
-Indiana Jones and the Last Crusade
-Heat
+Taxi Driver
 L.A. Confidential
-Ran
+Up
+Heat
+Hamilton
+Metropolis
+Snatch
+Jodaeiye Nader az Simin
 Die Hard
-Y�jinb�
-Green Book
-Rash�mon
+Incendies
+Spider-Man: No Way Home
+Indiana Jones and the Last Crusade
+Everything Everywhere All at Once
+Ladri di biciclette
+1917
+Taare Zameen Par
 Der Untergang
-All About Eve
-Monty Python and the Holy Grail
-Some Like It Hot
+Per qualche dollaro in pi�
 Batman Begins
-Jai Bhim
-Unforgiven
-Bacheha-Ye aseman
-Hauru no ugoku shiro
+Dangal
+The Kid
+Some Like It Hot
+The Father
+All About Eve
+Green Book
 The Wolf of Wall Street
 Judgment at Nuremberg
-There Will Be Blood
+Unforgiven
 Casino
-The Great Escape
-The Treasure of the Sierra Madre
+Ran
 Pan's Labyrinth
+There Will Be Blood
+The Sixth Sense
 A Beautiful Mind
-El secreto de sus ojos
+Monty Python and the Holy Grail
+The Truman Show
+Y�jinb�
+The Treasure of the Sierra Madre
+Rashomon
+The Great Escape
+Shutter Island
+Jurassic Park
+Kill Bill: Vol. 1
+No Country for Old Men
+The Elephant Man
+Finding Nemo
 Raging Bull
 Chinatown
-Tonari no Totoro
-Shutter Island
-Lock, Stock and Two Smoking Barrels
-No Country for Old Men
-Klaus
-Dial M for Murder
-The Thing
-The Gold Rush
-Three Billboards Outside Ebbing, Missouri
-Det sjunde inseglet
-The Elephant Man
-The Sixth Sense
-Dersu Uzala
-Jurassic Park
-The Truman Show
-Smultronst�llet
-The Third Man
-Salinui chueok
-V for Vendetta
-Blade Runner
-Trainspotting
-Fargo
-The Bridge on the River Kwai
-Inside Out
-Finding Nemo
-Kill Bill: Vol. 1
-Warrior
 Gone with the Wind
-T�ky� monogatari
-On the Waterfront
-Babam ve Oglum
-Prisoners
-Relatos salvajes
-The Grand Budapest Hotel
-Stalker
-The Deer Hunter
-The General
-Sherlock Jr.
-Persona
+V for Vendetta
+Inside Out
+The Thing
+Lock, Stock and Two Smoking Barrels
+Dial M for Murder
+El secreto de sus ojos
+The Bridge on the River Kwai
+Hauru no ugoku shiro
+Three Billboards Outside Ebbing, Missouri
+Trainspotting
 Gran Torino
-Before Sunrise
-Mary and Max.
+Warrior
+Fargo
+Tonari no Totoro
+Prisoners
+Million Dollar Baby
+The Gold Rush
+Blade Runner
 Catch Me If You Can
-Mr. Smith Goes to Washington
-Barry Lyndon
-In the Name of the Father
-Hacksaw Ridge
-Gone Girl
-Room
-Z
-Dune: Part One
-Andhadhun
-La passion de Jeanne d'Arc
-Ford v Ferrari
-12 Years a Slave
-To Be or Not to Be
-The Big Lebowski
-Dead Poets Society
-Harry Potter and the Deathly Hallows: Part 2
+On the Waterfront
+The Third Man
+Bacheha-Ye aseman
 Ben-Hur
+The General
+12 Years a Slave
+Smultronst�llet
+Gone Girl
+Before Sunrise
+The Deer Hunter
+Harry Potter and the Deathly Hallows: Part 2
+In the Name of the Father
+The Grand Budapest Hotel
+Mr. Smith Goes to Washington
+Le salaire de la peur
+Sherlock Jr.
+Barry Lyndon
+Salinui chueok
+Room
+Hacksaw Ridge
+Klaus
+Det sjunde inseglet
+Relatos salvajes
+The Big Lebowski
 How to Train Your Dragon
 Mad Max: Fury Road
-H�stsonaten
-Million Dollar Baby
-Le salaire de la peur
-Stand by Me
-Network
-Ah-ga-ssi
-Logan
-Gangs of Wasseypur
-La haine
-Koe no katachi
-Cool Hand Luke
-Hachi: A Dog's Tale
-Les quatre cents coups
-Platoon
-Spotlight
+Mary and Max.
 Monsters, Inc.
+Jaws
+La passion de Jeanne d'Arc
+Pather Panchali
+Hotel Rwanda
+Dead Poets Society
+Tokyo monogatari
+Platoon
+Rocky
+Ford v Ferrari
+Stand by Me
+The Terminator
+Rush
+Spotlight
+Into the Wild
+Network
+The Wizard of Oz
+Logan
+Groundhog Day
+Ratatouille
+The Exorcist
+Before Sunset
+The Best Years of Our Lives
+The Incredibles
+To Be or Not to Be
+La battaglia di Algeri
 Rebecca
 The Grapes of Wrath
 Hachi: A Dog's Tale
@@ -235,9 +235,9 @@ Cool Hand Luke
 Amores perros
 Pirates of the Caribbean: The Curse of the Black Pearl
 Les quatre cents coups
-Amores perros
-Into the Wild
-Kaze no tani no Naushika
+La haine
+Persona
+Dersu Uzala
 Babam ve Oglum
 Life of Brian
 The Sound of Music
